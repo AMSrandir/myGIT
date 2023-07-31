@@ -1,2 +1,3 @@
 Lobo nivel 5
 Oso nivel 2
+Aguila nivel 3
