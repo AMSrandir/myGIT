@@ -1,3 +1,4 @@
 Elfo 01
 Dwarf 02
 Human 03
+Halfing 02
