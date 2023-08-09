@@ -3,3 +3,4 @@ Dwarf 02
 Human 03
 Halfing 02
 Orc 03
+Gobling 04
